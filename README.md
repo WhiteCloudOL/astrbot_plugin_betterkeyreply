@@ -1,4 +1,4 @@
-# helloworld
+# betterkeyreply
 
 AstrBot 插件模板
 
